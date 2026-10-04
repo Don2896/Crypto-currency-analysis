@@ -1,4 +1,4 @@
-Bitcoin & Ethereum: Volatility, Correlation, and Diversification Analysis
+### Bitcoin & Ethereum: Volatility, Correlation, and Diversification Analysis
 
 📌 **Decision Context**
 
